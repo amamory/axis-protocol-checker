@@ -7,7 +7,7 @@ This design uses the ARM processor as a programmable tesybench to test IPs with 
 The ARM processor programs the AXI Stream Traffic Generator IP to test a certain AXIS-based DUT. 
 The DUT interfaces are checked with the AXI Stream Protocol Checker IP. The results can also be viewed with Chipscope.
 
-![Place here a nice picture of your design](my-awesome-module.png)
+![block design design](block.png)
 
 # How to download it
 
