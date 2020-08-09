@@ -1,0 +1,6 @@
+[submodule "hw/ips/axi_noc_counter_ip"]
+	path = hw/ips/axi_noc_counter_ip
+	url = https://github.com/amamory/axi_noc_counter_ip.git
+[submodule "hw/ips/axis-tlast-gen-ip"]
+	path = hw/ips/axis-tlast-gen-ip
+	url = https://github.com/amamory/axis-tlast-gen-ip.git
